@@ -13,6 +13,7 @@ export const Welcome = () => {
             <h1>
                 Welcome PAGE
             </h1>
+            <h2>New changes</h2>
         </div>
 
     );
